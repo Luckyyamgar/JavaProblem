@@ -11,7 +11,7 @@ public class arry_3 {
 	    	
 	    	//System.out.println(ar[i]);
 	    	
-	    	System.out.println(Math.pow(ar[i], 2));
+	    	System.out.println(Math.pow(ar[i],3));
 	    	
 	    	
 	    	

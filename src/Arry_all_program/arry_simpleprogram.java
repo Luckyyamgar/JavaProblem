@@ -16,11 +16,21 @@ public class arry_simpleprogram {
 			System.out.println(ar[i]);
 		}int sum=0;
 		for(int i=0;i<ar.length;i++) {
-			sum=sum+ar [i];
+			sum=sum+ar[i];
 		}System.out.println(sum);
 		
+		int mul=1;
+		
+		for(int i=0; i<ar.length;i++) {
+			mul=mul*ar[i];
+		}System.out.println(mul);
 		
 		
+    int div=ar[0];
+		
+		for(int i=0; i<ar.length;i++) {
+			div=div/ar[i];
+		}System.out.println(div);
 		
 		
 		

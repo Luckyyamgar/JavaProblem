@@ -6,11 +6,11 @@ public class SwitchProgram {
 		// Swith program
 		int a = 20, b = 10, c;
 
-		int num = ( 1 );
+		int num = (3);
 
 		switch (num) {
 
-		case  1 :
+		case 1:
 			c = a + b;
 
 			System.out.println("this is first month" + c);
@@ -21,6 +21,10 @@ public class SwitchProgram {
 			c = a - b;
 			System.out.println(c);
 
+			break;
+		case 3:
+			c = a + b + 1;
+			System.out.println("This is Thied Month:" + c);
 			break;
 		default:
 			System.out.println("india");

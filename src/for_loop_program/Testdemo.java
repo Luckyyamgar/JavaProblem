@@ -15,6 +15,48 @@ public class Testdemo implements Mhaku2,raju,sachin {
     s.money();
 	}
 
+//	@Override
+//	public void lucky() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//	@Override
+//	public void car() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//	@Override
+//	public void money() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//	@Override
+//	public void mobile() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//	@Override
+//	public void add() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//	@Override
+//	public void mul() {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//	@Override
+//	public void sub() {
+//		// TODO Auto-generated method stub
+//		
+	//}
+
 
 		
 	
@@ -22,6 +64,7 @@ public class Testdemo implements Mhaku2,raju,sachin {
 	@Override
 	public void lucky() {
 		// TODO Auto-generated method stub
+		System.out.println("I am a King of India");
 		
 	}
 
@@ -74,3 +117,4 @@ public class Testdemo implements Mhaku2,raju,sachin {
 	}
 
 }
+

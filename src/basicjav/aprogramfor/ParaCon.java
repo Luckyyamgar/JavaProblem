@@ -8,6 +8,7 @@ public class ParaCon {
 
 		this.name = name;
 		this.a = a;
+		
 	}
 
 	public static void main(String[] args) {
